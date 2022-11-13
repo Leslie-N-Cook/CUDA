@@ -1,8 +1,8 @@
 # CUDA
-Given info:
+
 Midwestern State University
-GPU Programming – Homework # 3 – Individual Assignment Fall 2022
-Part 1 - INFORMATION
+
+
 You have access to two arrays. Array A, and Array B.
 Both Arrays have the same length of (N=10240) integer locations.
 Array A is initialized by an even sequence (2n) where n ranges from 0 to N-1. 
